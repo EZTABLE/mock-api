@@ -4,19 +4,17 @@
   "message": "",
   "reservation": {
     "id": 12332718,
+    "userPhoneNumber": "+886911759593",
     "dateTime": "2023-12-04 12:00:00",
     "status": "ok",
     "isPremium": 1,
-    "people": 3,
-    "userId": 98765,
+    "people": 2,
     "userNickname": "李先生",
-    "userPhoneNumber": "+886911759593",
     "userComment": "請盡量安排冷氣較弱的位置",
     "restaurantId": 17565,
     "restaurantName": "小蒙牛三創店",
     "productId": 35407,
     "productName": "午餐吃到飽優惠方案",
-    "productUnitPrice": 699,
-    "sponsorName": "街口支付"
+    "productUnitPrice": 699
   }
 }
